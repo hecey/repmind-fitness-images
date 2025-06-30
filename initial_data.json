@@ -1,0 +1,604 @@
+{
+  "parameterLabels": [
+    {"name": "Kg"},
+    {"name": "Lb"},
+    {"name": "Reps"},
+    {"name": "RIR"},
+    {"name": "Km"},
+    {"name": "Min"},
+    {"name": "Lvl"},
+    {"name": "Sets"}
+  ],
+  "dayTypes": [
+    {"nameEn": "Legs", "nameEs": "Piernas"},
+    {"nameEn": "Chest-Back", "nameEs": "Pecho-Espalda"},
+    {"nameEn": "Shoulders-Arms", "nameEs": "Hombros-Brazos"}
+  ],
+  "exerciseTypes": [
+    {"nameEn": "Weightlifting", "nameEs": "Fuerza"},
+    {"nameEn": "Cardio", "nameEs": "Cardio"}
+  ],
+  "exerciseCategories": [
+    {"nameEn": "Legs", "nameEs": "Piernas"},
+    {"nameEn": "Glutes", "nameEs": "Glúteos"},
+    {"nameEn": "Chest", "nameEs": "Pecho"},
+    {"nameEn": "Back", "nameEs": "Espalda"},
+    {"nameEn": "Shoulders", "nameEs": "Hombros"},
+    {"nameEn": "Arms", "nameEs": "Brazos"},
+    {"nameEn": "Forearms", "nameEs": "Antebrazos"},
+    {"nameEn": "Abs", "nameEs": "Abdominales"},
+    {"nameEn": "Cardio", "nameEs": "Cardio"}
+  ],
+  "exercises": [
+    {
+      "nameEn": "Machine Adductors",
+      "nameEs": "Aductores en máquina",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/adductors_machine.png"
+    },
+    {
+      "nameEn": "Machine Abductors",
+      "nameEs": "Abductores en máquina",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/abductors_machine.png"
+    },
+    {
+      "nameEn": "Calf Press",
+      "nameEs": "Pantorrillas en prensa",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/calf_press_on_leg_press_machine.png"
+    },
+    {
+      "nameEn": "Seated Hamstring Curl",
+      "nameEs": "Isquiotibiales sentado en máquina",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/seated_hamstring_curl.png"
+    },
+    {
+      "nameEn": "Hack Squat",
+      "nameEs": "Sentadilla Hack",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/hack_squat.png"
+    },
+    {
+      "nameEn": "Unilateral Leg Extension",
+      "nameEs": "Extensión de pierna unilateral",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/unilateral_leg_extension.png"
+    },
+    {
+      "nameEn": "Squat",
+      "nameEs": "Sentadilla",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/barbell_squat.png"
+    },
+    {
+      "nameEn": "Romanian Deadlift",
+      "nameEs": "Peso muerto rumano",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/romanian_deadlift.png"
+    },
+    {
+      "nameEn": "Leg Press",
+      "nameEs": "Prensa de piernas",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/leg_press.png"
+    },
+    {
+      "nameEn": "Lunges",
+      "nameEs": "Zancadas",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/lunges.png"
+    },
+    {
+      "nameEn": "Hip Thrust",
+      "nameEs": "Elevación de cadera",
+      "category": "Glutes",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/hip_thrust_with_barbell.png"
+    },
+    {
+      "nameEn": "Glute Bridge",
+      "nameEs": "Puente de glúteos",
+      "category": "Glutes",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/glute_bridge.png"
+    },
+    {
+      "nameEn": "Cable Glute Kickback",
+      "nameEs": "Patada de glúteos en polea",
+      "category": "Glutes",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/glute_kickbacks_on_cable_machine.png"
+    },
+    {
+      "nameEn": "Machine Hip Abduction",
+      "nameEs": "Abducción de cadera en máquina",
+      "category": "Glutes",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/hip_abduction_machine.png"
+    },
+    {
+      "nameEn": "Ab Machine",
+      "nameEs": "Máquina de abdominales",
+      "category": "Abs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/ab_machine.png"
+    },
+    {
+      "nameEn": "Weighted Crunch",
+      "nameEs": "Crunch con peso",
+      "category": "Abs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/weighted_crunch.png"
+    },
+    {
+      "nameEn": "Hanging Leg Raises",
+      "nameEs": "Elevaciones de piernas en banco",
+      "category": "Abs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/leg_raises_on_bench.png"
+    },
+    {
+      "nameEn": "T-Bar Row",
+      "nameEs": "Remo en barra T",
+      "category": "Back",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/t_bar_row.png"
+    },
+    {
+      "nameEn": "Lat Pulldown",
+      "nameEs": "Jalón en polea",
+      "category": "Back",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/lat_pulldown.png"
+    },
+    {
+      "nameEn": "Seated Machine Shrugs",
+      "nameEs": "Trapecios en máquina sentado",
+      "category": "Back",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/seated_machine_shrugs.png"
+    },
+    {
+      "nameEn": "One-Arm Row",
+      "nameEs": "Remo a una mano",
+      "category": "Back",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/one_arm_row.png"
+    },
+    {
+      "nameEn": "Conventional Deadlift",
+      "nameEs": "Peso muerto convencional",
+      "category": "Back",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/conventional_deadlift.png"
+    },
+    {
+      "nameEn": "Front Lat Pulldown",
+      "nameEs": "Jalón frontal en polea",
+      "category": "Back",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/front_lat_pulldown.png"
+    },
+    {
+      "nameEn": "Incline Press",
+      "nameEs": "Press inclinado",
+      "category": "Chest",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/incline_bench_press.png"
+    },
+    {
+      "nameEn": "Machine Fly",
+      "nameEs": "Aperturas en máquina",
+      "category": "Chest",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/machine_fly.png"
+    },
+    {
+      "nameEn": "Bench Press",
+      "nameEs": "Press de banca",
+      "category": "Chest",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/flat_bench_press.png"
+    },
+    {
+      "nameEn": "Decline Press",
+      "nameEs": "Press declinado",
+      "category": "Chest",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/decline_bench_press.png"
+    },
+    {
+      "nameEn": "Cable Crossover",
+      "nameEs": "Cruces en polea",
+      "category": "Chest",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/cable_chest_crossover.png"
+    },
+    {
+      "nameEn": "Rear Delt Machine",
+      "nameEs": "Deltoides posteriores en máquina",
+      "category": "Shoulders",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/rear_delt_machine.png"
+    },
+    {
+      "nameEn": "Lateral Raises",
+      "nameEs": "Elevaciones laterales",
+      "category": "Shoulders",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/lateral_raises_with_dumbbells.png"
+    },
+    {
+      "nameEn": "Machine Shoulder Press",
+      "nameEs": "Press de hombros en máquina",
+      "category": "Shoulders",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/machine_shoulder_press.png"
+    },
+    {
+      "nameEn": "Military Press",
+      "nameEs": "Press militar",
+      "category": "Shoulders",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/military_press.png"
+    },
+    {
+      "nameEn": "Front Raises",
+      "nameEs": "Elevaciones frontales",
+      "category": "Shoulders",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/front_raises_with_dumbbells.png"
+    },
+    {
+      "nameEn": "Machine Dips",
+      "nameEs": "Fondos en máquina",
+      "category": "Arms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/machine_dips.png"
+    },
+    {
+      "nameEn": "Tricep Extension",
+      "nameEs": "Extensión de tríceps",
+      "category": "Arms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/tricep_extension.png"
+    },
+    {
+      "nameEn": "Bicep Curl",
+      "nameEs": "Curl de bíceps",
+      "category": "Arms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/biceps_curl_with_barbell.png"
+    },
+    {
+      "nameEn": "French Press",
+      "nameEs": "Press francés",
+      "category": "Arms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/french_press.png"
+    },
+    {
+      "nameEn": "Hammer Curl",
+      "nameEs": "Curl martillo",
+      "category": "Arms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/hammer_curl_with_dumbbells.png"
+    },
+    {
+      "nameEn": "Forearm Curl",
+      "nameEs": "Curl de antebrazos",
+      "category": "Forearms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/forearm_curls.png"
+    },
+    {
+      "nameEn": "Wrist Extension",
+      "nameEs": "Extensión de muñecas",
+      "category": "Forearms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/wrist_extension.png"
+    },
+    {
+      "nameEn": "Treadmill",
+      "nameEs": "Cinta de correr",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/treadmill.png"
+    },
+    {
+      "nameEn": "Stationary Bike",
+      "nameEs": "Bicicleta estática",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/stationary_bike.png"
+    },
+    {
+      "nameEn": "Elliptical",
+      "nameEs": "Elíptica",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/elliptical_machine.png"
+    },
+    {
+      "nameEn": "Rowing Machine",
+      "nameEs": "Máquina de remo",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/rowing_machine.png"
+    },
+    {
+      "nameEn": "Stair Climber",
+      "nameEs": "Escaladora",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/climbing_on_a_stair_stepper.png"
+    },
+    {
+      "nameEn": "Air Bike",
+      "nameEs": "Bicicleta de aire",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/air_bike.png"
+    },
+    {
+      "nameEn": "Incline Treadmill",
+      "nameEs": "Caminadora inclinada",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/incline_treadmill.png"
+    },
+    {
+      "nameEn": "Step Machine",
+      "nameEs": "Máquina de pasos",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/step_machine.png"
+    },
+    {
+      "nameEn": "Jump Rope",
+      "nameEs": "Saltos de cuerda",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/jumping_rope.png"
+    },
+    {
+      "nameEn": "Treadmill Sprint",
+      "nameEs": "Sprint en cinta",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/treadmill_sprint.png"
+    },
+    {
+      "nameEn": "Recumbent Bike",
+      "nameEs": "Bicicleta reclinada",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/recumbent_bike.png"
+    },
+    {
+      "nameEn": "Ski Erg",
+      "nameEs": "Máquina de esquí",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/ski_erg.png"
+    },
+    {
+      "nameEn": "Circuit Training",
+      "nameEs": "Entrenamiento en circuito",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/circuit_training.png"
+    },
+    {
+      "nameEn": "Burpees",
+      "nameEs": "Burpees",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/burpees.png"
+    },
+    {
+      "nameEn": "Jumping Jacks",
+      "nameEs": "Saltos de tijera",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/jumping_jacks.png"
+    },
+    {
+      "nameEn": "Stair Running",
+      "nameEs": "Escaleras",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/climbing_stairs.png"
+    },
+    {
+      "nameEn": "Hill Sprint Simulation",
+      "nameEs": "Carrera en colina simulada",
+      "category": "Cardio",
+      "type": "Cardio",
+      "param1Label": "Km",
+      "param2Label": "Min",
+      "param3Label": "Lvl",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/hill_sprint_simulation.png"
+    }
+  ]
+}
