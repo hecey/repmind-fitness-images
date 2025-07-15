@@ -26,7 +26,7 @@
     { "nameEn": "Hamstring Dominant", "nameEs": "Dominante en Femorales" },
     { "nameEn": "Glutes", "nameEs": "Glúteos" },  
     { "nameEn": "Cardio", "nameEs": "Cardio" },
-    { "nameEn": "Mobility & Stretch", "nameEs": "Movilidad y Estiramiento" },
+    { "nameEn": "Mobility & Stretch", "nameEs": "Movilidad y Estiramiento" }
   ],
   "exerciseTypes": [
     {"nameEn": "Weightlifting", "nameEs": "Fuerza"},
