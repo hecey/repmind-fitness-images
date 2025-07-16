@@ -12,7 +12,7 @@
   "dayTypes": [
     {"nameEn": "Legs", "nameEs": "Piernas"},
     {"nameEn": "Chest-Back", "nameEs": "Pecho-Espalda"},
-    {"nameEn": "Shoulders-Arms", "nameEs": "Hombros-Brazos"}
+    {"nameEn": "Shoulders-Arms", "nameEs": "Hombros-Brazos"},
     {"nameEn": "Push", "nameEs": "Empuje"},
     {"nameEn": "Pull", "nameEs": "Jalón"},
     {"nameEn": "Chest-Triceps", "nameEs": "Pecho-Tríceps"},
