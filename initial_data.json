@@ -1,47 +1,118 @@
 {
   "parameterLabels": [
-    {"name": "Kg"},
-    {"name": "Lb"},
-    {"name": "Reps"},
-    {"name": "RIR"},
-    {"name": "Km"},
-    {"name": "Min"},
-    {"name": "Lvl"},
-    {"name": "Sets"}
+    {
+      "name": "Kg"
+    },
+    {
+      "name": "Lb"
+    },
+    {
+      "name": "Reps"
+    },
+    {
+      "name": "RIR"
+    },
+    {
+      "name": "Km"
+    },
+    {
+      "name": "Miles"
+    },
+    {
+      "name": "Min"
+    },
+    {
+      "name": "Lvl"
+    },
+    {
+      "name": "Sets"
+    },
+    {
+      "name": "Cal"
+    },
+    {
+      "name": "BPM"
+    },
+    {
+      "name": "Rpm"
+    },
+    {
+      "name": "Km/h"
+    },
+    {
+      "name": "Mph"
+    },
+    {
+      "name": "Incl"
+    },
+    {
+      "name": "Steps"
+    },
+    {
+      "name": "Vatios"
+    }
   ],
   "dayTypes": [
-    {"nameEn": "Legs", "nameEs": "Piernas"},
-    {"nameEn": "Chest-Back", "nameEs": "Pecho-Espalda"},
-    {"nameEn": "Shoulders-Arms", "nameEs": "Hombros-Brazos"},
-    {"nameEn": "Push", "nameEs": "Empuje"},
-    {"nameEn": "Pull", "nameEs": "Jalón"},
-    {"nameEn": "Chest-Triceps", "nameEs": "Pecho-Tríceps"},
-    {"nameEn": "Back-Biceps", "nameEs": "Espalda-Bíceps"},
-    {"nameEn": "Shoulders", "nameEs": "Hombros"},
-    {"nameEn": "Upper Body", "nameEs": "Cuerpo Superior"},
-    {"nameEn": "Lower Body", "nameEs": "Cuerpo Inferior"},
-    {"nameEn": "Full Body", "nameEs": "Cuerpo Completo"},
-    {"nameEn": "Core & Stability", "nameEs": "Core y Estabilidad"},
-    {"nameEn": "Quad Dominant", "nameEs": "Dominante en Cuádriceps"},
-    {"nameEn": "Hamstring Dominant", "nameEs": "Dominante en Femorales"},
-    {"nameEn": "Glutes", "nameEs": "Glúteos"},  
-    {"nameEn": "Cardio", "nameEs": "Cardio"},
-    {"nameEn": "Mobility & Stretch", "nameEs": "Movilidad y Estiramiento"}
+    {
+      "nameEn": "Legs",
+      "nameEs": "Piernas"
+    },
+    {
+      "nameEn": "Chest-Back",
+      "nameEs": "Pecho-Espalda"
+    },
+    {
+      "nameEn": "Shoulders-Arms",
+      "nameEs": "Hombros-Brazos"
+    }
   ],
   "exerciseTypes": [
-    {"nameEn": "Weightlifting", "nameEs": "Fuerza"},
-    {"nameEn": "Cardio", "nameEs": "Cardio"}
+    {
+      "nameEn": "Weightlifting",
+      "nameEs": "Fuerza"
+    },
+    {
+      "nameEn": "Cardio",
+      "nameEs": "Cardio"
+    }
   ],
   "exerciseCategories": [
-    {"nameEn": "Legs", "nameEs": "Piernas"},
-    {"nameEn": "Glutes", "nameEs": "Glúteos"},
-    {"nameEn": "Chest", "nameEs": "Pecho"},
-    {"nameEn": "Back", "nameEs": "Espalda"},
-    {"nameEn": "Shoulders", "nameEs": "Hombros"},
-    {"nameEn": "Arms", "nameEs": "Brazos"},
-    {"nameEn": "Forearms", "nameEs": "Antebrazos"},
-    {"nameEn": "Abs", "nameEs": "Abdominales"},
-    {"nameEn": "Cardio", "nameEs": "Cardio"}
+    {
+      "nameEn": "Legs",
+      "nameEs": "Piernas"
+    },
+    {
+      "nameEn": "Glutes",
+      "nameEs": "Glúteos"
+    },
+    {
+      "nameEn": "Chest",
+      "nameEs": "Pecho"
+    },
+    {
+      "nameEn": "Back",
+      "nameEs": "Espalda"
+    },
+    {
+      "nameEn": "Shoulders",
+      "nameEs": "Hombros"
+    },
+    {
+      "nameEn": "Arms",
+      "nameEs": "Brazos"
+    },
+    {
+      "nameEn": "Forearms",
+      "nameEs": "Antebrazos"
+    },
+    {
+      "nameEn": "Abs",
+      "nameEs": "Abdominales"
+    },
+    {
+      "nameEn": "Cardio",
+      "nameEs": "Cardio"
+    }
   ],
   "exercises": [
     {
@@ -613,6 +684,187 @@
       "param2Label": "Min",
       "param3Label": "Lvl",
       "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/hill_sprint_simulation.png"
+    }
+  ],
+  "trainingPlans": [
+    {
+      "nameEn": "3 Days – Full Body",
+      "nameEs": "3 Días – Cuerpo Completo",
+      "descriptionEn": "Ideal for beginners and intermediates with limited time. Works the entire body each session with optimal recovery between workouts. Perfect for Mon-Wed-Fri schedules. High muscle frequency (3x/week), great for strength and muscle gains.",
+      "descriptionEs": "Ideal para principiantes e intermedios con poco tiempo. Trabaja todo el cuerpo en cada sesión con recuperación óptima. Perfecto para lunes-miércoles-viernes. Alta frecuencia muscular (3x/semana), excelente para fuerza e hipertrofia.",
+      "daysPerWeek": 3,
+      "days": [
+        {
+          "dayOfWeek": 1,
+          "nameEn": "Full Body A",
+          "nameEs": "Cuerpo Completo A"
+        },
+        {
+          "dayOfWeek": 3,
+          "nameEn": "Full Body B",
+          "nameEs": "Cuerpo Completo B"
+        },
+        {
+          "dayOfWeek": 5,
+          "nameEn": "Full Body C",
+          "nameEs": "Cuerpo Completo C"
+        }
+      ]
+    },
+    {
+      "nameEn": "4 Days – Upper / Lower",
+      "nameEs": "4 Días – Superior / Inferior",
+      "descriptionEn": "For intermediates seeking more training volume. Splits into 2 upper body days and 2 lower body days. Each muscle group trained twice per week — ideal balance of volume and recovery for hypertrophy.",
+      "descriptionEs": "Para intermedios que buscan más volumen. Divide en 2 días de tren superior y 2 de inferior. Cada músculo se entrena dos veces por semana: balance ideal de volumen y recuperación para la hipertrofia.",
+      "daysPerWeek": 4,
+      "days": [
+        {
+          "dayOfWeek": 1,
+          "nameEn": "Upper A",
+          "nameEs": "Superior A"
+        },
+        {
+          "dayOfWeek": 2,
+          "nameEn": "Lower A",
+          "nameEs": "Inferior A"
+        },
+        {
+          "dayOfWeek": 4,
+          "nameEn": "Upper B",
+          "nameEs": "Superior B"
+        },
+        {
+          "dayOfWeek": 5,
+          "nameEn": "Lower B",
+          "nameEs": "Inferior B"
+        }
+      ]
+    },
+    {
+      "nameEn": "5 Days – Upper / Lower + Full Body",
+      "nameEs": "5 Días – Superior / Inferior + Cuerpo Completo",
+      "descriptionEn": "A 5-day split combining Upper/Lower structure with a Full Body finisher day. High weekly volume with strategic recovery. Great for intermediates wanting to train 5 days without overtraining.",
+      "descriptionEs": "Combinación de 4 días Superior/Inferior más un día de Cuerpo Completo. Alto volumen semanal con recuperación estratégica. Ideal para intermedios que quieren entrenar 5 días sin sobreentrenarse.",
+      "daysPerWeek": 5,
+      "days": [
+        {
+          "dayOfWeek": 1,
+          "nameEn": "Upper A",
+          "nameEs": "Superior A"
+        },
+        {
+          "dayOfWeek": 2,
+          "nameEn": "Lower A",
+          "nameEs": "Inferior A"
+        },
+        {
+          "dayOfWeek": 3,
+          "nameEn": "Upper B",
+          "nameEs": "Superior B"
+        },
+        {
+          "dayOfWeek": 4,
+          "nameEn": "Lower B",
+          "nameEs": "Inferior B"
+        },
+        {
+          "dayOfWeek": 5,
+          "nameEn": "Full Body",
+          "nameEs": "Cuerpo Completo"
+        }
+      ]
+    },
+    {
+      "nameEn": "6 Days – PPL (Push Pull Legs)",
+      "nameEs": "6 Días – EJP (Empuje Jalón Piernas)",
+      "descriptionEn": "For intermediate-advanced and advanced athletes. Divides training into Push (chest, shoulders, triceps), Pull (back, biceps), and Legs. Each block repeats twice per week for maximum muscle stimulus and volume.",
+      "descriptionEs": "Para intermedios avanzados y avanzados. Divide el entrenamiento en Empuje (pecho, hombros, tríceps), Jalón (espalda, bíceps) y Piernas. Cada bloque se repite dos veces por semana para máximo volumen y estímulo muscular.",
+      "daysPerWeek": 6,
+      "days": [
+        {
+          "dayOfWeek": 1,
+          "nameEn": "Push A",
+          "nameEs": "Empuje A"
+        },
+        {
+          "dayOfWeek": 2,
+          "nameEn": "Pull A",
+          "nameEs": "Jalón A"
+        },
+        {
+          "dayOfWeek": 3,
+          "nameEn": "Legs A",
+          "nameEs": "Piernas A"
+        },
+        {
+          "dayOfWeek": 4,
+          "nameEn": "Push B",
+          "nameEs": "Empuje B"
+        },
+        {
+          "dayOfWeek": 5,
+          "nameEn": "Pull B",
+          "nameEs": "Jalón B"
+        },
+        {
+          "dayOfWeek": 6,
+          "nameEn": "Legs B",
+          "nameEs": "Piernas B"
+        }
+      ]
+    },
+    {
+      "nameEn": "3 Days – Push / Pull / Legs",
+      "nameEs": "3 Días – Empuje / Jalón / Piernas",
+      "descriptionEn": "Classic 3-day PPL rotation for beginners to intermediates. Each session targets a specific movement pattern. Lower frequency than 6-day PPL but great for building the habit and base strength.",
+      "descriptionEs": "Rotación PPL clásica de 3 días para principiantes e intermedios. Cada sesión trabaja un patrón de movimiento específico. Menor frecuencia que PPL 6 días pero ideal para construir hábito y fuerza base.",
+      "daysPerWeek": 3,
+      "days": [
+        {
+          "dayOfWeek": 1,
+          "nameEn": "Push",
+          "nameEs": "Empuje"
+        },
+        {
+          "dayOfWeek": 3,
+          "nameEn": "Pull",
+          "nameEs": "Jalón"
+        },
+        {
+          "dayOfWeek": 5,
+          "nameEn": "Legs",
+          "nameEs": "Piernas"
+        }
+      ]
+    },
+    {
+      "nameEn": "4 Days – PPL + Full Body",
+      "nameEs": "4 Días – EJP + Cuerpo Completo",
+      "descriptionEn": "A hybrid approach combining PPL structure with a full body day. Great for athletes who want the muscle group focus of PPL but with extra overall volume.",
+      "descriptionEs": "Enfoque híbrido que combina estructura EJP con un día de cuerpo completo. Ideal para quienes quieren el enfoque muscular del EJP pero con mayor volumen global.",
+      "daysPerWeek": 4,
+      "days": [
+        {
+          "dayOfWeek": 1,
+          "nameEn": "Push",
+          "nameEs": "Empuje"
+        },
+        {
+          "dayOfWeek": 2,
+          "nameEn": "Pull",
+          "nameEs": "Jalón"
+        },
+        {
+          "dayOfWeek": 4,
+          "nameEn": "Legs",
+          "nameEs": "Piernas"
+        },
+        {
+          "dayOfWeek": 5,
+          "nameEn": "Full Body",
+          "nameEs": "Cuerpo Completo"
+        }
+      ]
     }
   ]
 }
