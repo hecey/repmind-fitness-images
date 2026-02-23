@@ -116,6 +116,176 @@
   ],
   "exercises": [
     {
+      "nameEn": "Barbell Row",
+      "nameEs": "Remo con barra",
+      "category": "Back",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/barbell_row.png"
+    },
+    {
+      "nameEn": "Overhead Press",
+      "nameEs": "Press por encima de la cabeza",
+      "category": "Shoulders",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/overhead_press.png"
+    },
+    {
+      "nameEn": "Pull-Ups",
+      "nameEs": "Dominadas",
+      "category": "Back",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/pull_ups.png"
+    },
+    {
+      "nameEn": "Front Squat",
+      "nameEs": "Sentadilla frontal",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/front_squat.png"
+    },
+    {
+      "nameEn": "Dumbbell Bench Press",
+      "nameEs": "Press con mancuernas",
+      "category": "Chest",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/dumbbell_bench_press.png"
+    },
+    {
+      "nameEn": "Seated Cable Row",
+      "nameEs": "Remo en polea sentado",
+      "category": "Back",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/seated_cable_row.png"
+    },
+    {
+      "nameEn": "Dumbbell Shoulder Press",
+      "nameEs": "Press de hombro con mancuernas",
+      "category": "Shoulders",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/dumbbell_shoulder_press.png"
+    },
+    {
+      "nameEn": "Leg Curl",
+      "nameEs": "Curl femoral",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/leg_curl.png"
+    },
+    {
+      "nameEn": "Tricep Pushdown",
+      "nameEs": "Extensión de tríceps en polea",
+      "category": "Arms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/tricep_pushdown.png"
+    },
+    {
+      "nameEn": "Barbell Curl",
+      "nameEs": "Curl con barra",
+      "category": "Arms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/barbell_curl.png"
+    },
+    {
+      "nameEn": "Skull Crushers",
+      "nameEs": "Extensiones de tríceps acostado",
+      "category": "Arms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/skull_crushers.png"
+    },
+    {
+      "nameEn": "Dumbbell Curl",
+      "nameEs": "Curl con mancuernas",
+      "category": "Arms",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/dumbbell_curl.png"
+    },
+    {
+      "nameEn": "Bulgarian Split Squat",
+      "nameEs": "Sentadilla búlgara",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/bulgarian_split_squat.png"
+    },
+    {
+      "nameEn": "Leg Extension",
+      "nameEs": "Extensión de piernas",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/leg_extension.png"
+    },
+    {
+      "nameEn": "Calf Raises",
+      "nameEs": "Elevaciones de pantorrillas",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/calf_raises.png"
+    },
+    {
+      "nameEn": "Seated Calf Raises",
+      "nameEs": "Pantorrillas sentado",
+      "category": "Legs",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/seated_calf_raises.png"
+    },
+    {
+      "nameEn": "Face Pulls",
+      "nameEs": "Face pulls",
+      "category": "Back",
+      "type": "Weightlifting",
+      "param1Label": "Kg",
+      "param2Label": "Reps",
+      "param3Label": "RIR",
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/face_pulls.png"
+    },
+    {
       "nameEn": "Machine Adductors",
       "nameEs": "Aductores en máquina",
       "category": "Legs",
@@ -700,7 +870,7 @@
           "nameEs": "Cuerpo Completo A",
           "exercises": [
             {
-              "exerciseNameEn": "Barbell Squat",
+              "exerciseNameEn": "Squat",
               "setsCount": 4
             },
             {
@@ -727,11 +897,11 @@
           "nameEs": "Cuerpo Completo B",
           "exercises": [
             {
-              "exerciseNameEn": "Deadlift",
+              "exerciseNameEn": "Conventional Deadlift",
               "setsCount": 4
             },
             {
-              "exerciseNameEn": "Incline Bench Press",
+              "exerciseNameEn": "Incline Press",
               "setsCount": 4
             },
             {
@@ -770,7 +940,7 @@
               "setsCount": 3
             },
             {
-              "exerciseNameEn": "Leg Curl",
+              "exerciseNameEn": "Seated Hamstring Curl",
               "setsCount": 3
             }
           ]
@@ -821,7 +991,7 @@
           "nameEs": "Inferior A",
           "exercises": [
             {
-              "exerciseNameEn": "Barbell Squat",
+              "exerciseNameEn": "Squat",
               "setsCount": 4
             },
             {
@@ -837,7 +1007,7 @@
               "setsCount": 3
             },
             {
-              "exerciseNameEn": "Calf Raises",
+              "exerciseNameEn": "Calf Press",
               "setsCount": 4
             }
           ]
@@ -848,7 +1018,7 @@
           "nameEs": "Superior B",
           "exercises": [
             {
-              "exerciseNameEn": "Incline Bench Press",
+              "exerciseNameEn": "Incline Press",
               "setsCount": 4
             },
             {
@@ -879,7 +1049,7 @@
           "nameEs": "Inferior B",
           "exercises": [
             {
-              "exerciseNameEn": "Deadlift",
+              "exerciseNameEn": "Conventional Deadlift",
               "setsCount": 4
             },
             {
@@ -946,7 +1116,7 @@
           "nameEs": "Inferior A",
           "exercises": [
             {
-              "exerciseNameEn": "Barbell Squat",
+              "exerciseNameEn": "Squat",
               "setsCount": 4
             },
             {
@@ -973,7 +1143,7 @@
           "nameEs": "Superior B",
           "exercises": [
             {
-              "exerciseNameEn": "Incline Bench Press",
+              "exerciseNameEn": "Incline Press",
               "setsCount": 4
             },
             {
@@ -1004,7 +1174,7 @@
           "nameEs": "Inferior B",
           "exercises": [
             {
-              "exerciseNameEn": "Deadlift",
+              "exerciseNameEn": "Conventional Deadlift",
               "setsCount": 4
             },
             {
@@ -1031,7 +1201,7 @@
           "nameEs": "Cuerpo Completo",
           "exercises": [
             {
-              "exerciseNameEn": "Barbell Squat",
+              "exerciseNameEn": "Squat",
               "setsCount": 4
             },
             {
@@ -1071,7 +1241,7 @@
               "setsCount": 4
             },
             {
-              "exerciseNameEn": "Incline Bench Press",
+              "exerciseNameEn": "Incline Press",
               "setsCount": 3
             },
             {
@@ -1129,7 +1299,7 @@
           "nameEs": "Piernas A",
           "exercises": [
             {
-              "exerciseNameEn": "Barbell Squat",
+              "exerciseNameEn": "Squat",
               "setsCount": 4
             },
             {
@@ -1164,7 +1334,7 @@
               "setsCount": 4
             },
             {
-              "exerciseNameEn": "Incline Bench Press",
+              "exerciseNameEn": "Incline Press",
               "setsCount": 3
             },
             {
@@ -1222,7 +1392,7 @@
           "nameEs": "Piernas B",
           "exercises": [
             {
-              "exerciseNameEn": "Barbell Squat",
+              "exerciseNameEn": "Squat",
               "setsCount": 4
             },
             {
@@ -1266,7 +1436,7 @@
               "setsCount": 4
             },
             {
-              "exerciseNameEn": "Incline Bench Press",
+              "exerciseNameEn": "Incline Press",
               "setsCount": 3
             },
             {
@@ -1324,7 +1494,7 @@
           "nameEs": "Piernas",
           "exercises": [
             {
-              "exerciseNameEn": "Barbell Squat",
+              "exerciseNameEn": "Squat",
               "setsCount": 4
             },
             {
@@ -1368,7 +1538,7 @@
               "setsCount": 4
             },
             {
-              "exerciseNameEn": "Incline Bench Press",
+              "exerciseNameEn": "Incline Press",
               "setsCount": 3
             },
             {
@@ -1426,7 +1596,7 @@
           "nameEs": "Piernas",
           "exercises": [
             {
-              "exerciseNameEn": "Barbell Squat",
+              "exerciseNameEn": "Squat",
               "setsCount": 4
             },
             {
@@ -1457,7 +1627,7 @@
           "nameEs": "Cuerpo Completo",
           "exercises": [
             {
-              "exerciseNameEn": "Barbell Squat",
+              "exerciseNameEn": "Squat",
               "setsCount": 4
             },
             {
