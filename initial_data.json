@@ -871,23 +871,28 @@
           "exercises": [
             {
               "exerciseNameEn": "Squat",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Sentadilla"
             },
             {
               "exerciseNameEn": "Bench Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press de banca"
             },
             {
               "exerciseNameEn": "Barbell Row",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Remo con barra"
             },
             {
               "exerciseNameEn": "Overhead Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press por encima de la cabeza"
             },
             {
               "exerciseNameEn": "Romanian Deadlift",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Peso muerto rumano"
             }
           ]
         },
@@ -898,23 +903,28 @@
           "exercises": [
             {
               "exerciseNameEn": "Conventional Deadlift",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Peso muerto convencional"
             },
             {
               "exerciseNameEn": "Incline Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press inclinado"
             },
             {
               "exerciseNameEn": "Pull-Ups",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Dominadas"
             },
             {
               "exerciseNameEn": "Leg Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Prensa de piernas"
             },
             {
               "exerciseNameEn": "Lateral Raises",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Elevaciones laterales"
             }
           ]
         },
@@ -925,23 +935,28 @@
           "exercises": [
             {
               "exerciseNameEn": "Front Squat",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Sentadilla frontal"
             },
             {
               "exerciseNameEn": "Dumbbell Bench Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press con mancuernas"
             },
             {
               "exerciseNameEn": "Seated Cable Row",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Remo en polea sentado"
             },
             {
               "exerciseNameEn": "Dumbbell Shoulder Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press de hombro con mancuernas"
             },
             {
               "exerciseNameEn": "Seated Hamstring Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Isquiotibiales sentado en máquina"
             }
           ]
         }
@@ -961,27 +976,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Bench Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press de banca"
             },
             {
               "exerciseNameEn": "Barbell Row",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Remo con barra"
             },
             {
               "exerciseNameEn": "Overhead Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press por encima de la cabeza"
             },
             {
               "exerciseNameEn": "Pull-Ups",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Dominadas"
             },
             {
               "exerciseNameEn": "Tricep Pushdown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensión de tríceps en polea"
             },
             {
               "exerciseNameEn": "Barbell Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl con barra"
             }
           ]
         },
@@ -992,23 +1013,28 @@
           "exercises": [
             {
               "exerciseNameEn": "Squat",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Sentadilla"
             },
             {
               "exerciseNameEn": "Romanian Deadlift",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Peso muerto rumano"
             },
             {
               "exerciseNameEn": "Leg Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Prensa de piernas"
             },
             {
               "exerciseNameEn": "Leg Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl femoral"
             },
             {
               "exerciseNameEn": "Calf Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Pantorrillas en prensa"
             }
           ]
         },
@@ -1019,27 +1045,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Incline Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press inclinado"
             },
             {
               "exerciseNameEn": "Seated Cable Row",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Remo en polea sentado"
             },
             {
               "exerciseNameEn": "Dumbbell Shoulder Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press de hombro con mancuernas"
             },
             {
               "exerciseNameEn": "Lat Pulldown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Jalón en polea"
             },
             {
               "exerciseNameEn": "Skull Crushers",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensiones de tríceps acostado"
             },
             {
               "exerciseNameEn": "Dumbbell Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl con mancuernas"
             }
           ]
         },
@@ -1050,23 +1082,28 @@
           "exercises": [
             {
               "exerciseNameEn": "Conventional Deadlift",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Peso muerto convencional"
             },
             {
               "exerciseNameEn": "Bulgarian Split Squat",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Sentadilla búlgara"
             },
             {
               "exerciseNameEn": "Leg Extension",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensión de piernas"
             },
             {
               "exerciseNameEn": "Hip Thrust",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevación de cadera"
             },
             {
               "exerciseNameEn": "Seated Calf Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Pantorrillas sentado"
             }
           ]
         }
@@ -1086,27 +1123,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Bench Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press de banca"
             },
             {
               "exerciseNameEn": "Barbell Row",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Remo con barra"
             },
             {
               "exerciseNameEn": "Overhead Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press por encima de la cabeza"
             },
             {
               "exerciseNameEn": "Pull-Ups",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Dominadas"
             },
             {
               "exerciseNameEn": "Tricep Pushdown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensión de tríceps en polea"
             },
             {
               "exerciseNameEn": "Barbell Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl con barra"
             }
           ]
         },
@@ -1117,23 +1160,28 @@
           "exercises": [
             {
               "exerciseNameEn": "Squat",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Sentadilla"
             },
             {
               "exerciseNameEn": "Romanian Deadlift",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Peso muerto rumano"
             },
             {
               "exerciseNameEn": "Leg Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Prensa de piernas"
             },
             {
               "exerciseNameEn": "Leg Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl femoral"
             },
             {
               "exerciseNameEn": "Calf Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevaciones de pantorrillas"
             }
           ]
         },
@@ -1144,27 +1192,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Incline Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press inclinado"
             },
             {
               "exerciseNameEn": "Seated Cable Row",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Remo en polea sentado"
             },
             {
               "exerciseNameEn": "Dumbbell Shoulder Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press de hombro con mancuernas"
             },
             {
               "exerciseNameEn": "Lat Pulldown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Jalón en polea"
             },
             {
               "exerciseNameEn": "Skull Crushers",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensiones de tríceps acostado"
             },
             {
               "exerciseNameEn": "Dumbbell Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl con mancuernas"
             }
           ]
         },
@@ -1175,23 +1229,28 @@
           "exercises": [
             {
               "exerciseNameEn": "Conventional Deadlift",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Peso muerto convencional"
             },
             {
               "exerciseNameEn": "Bulgarian Split Squat",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Sentadilla búlgara"
             },
             {
               "exerciseNameEn": "Leg Extension",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensión de piernas"
             },
             {
               "exerciseNameEn": "Hip Thrust",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevación de cadera"
             },
             {
               "exerciseNameEn": "Seated Calf Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Pantorrillas sentado"
             }
           ]
         },
@@ -1202,23 +1261,28 @@
           "exercises": [
             {
               "exerciseNameEn": "Squat",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Sentadilla"
             },
             {
               "exerciseNameEn": "Bench Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press de banca"
             },
             {
               "exerciseNameEn": "Barbell Row",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Remo con barra"
             },
             {
               "exerciseNameEn": "Overhead Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press por encima de la cabeza"
             },
             {
               "exerciseNameEn": "Romanian Deadlift",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Peso muerto rumano"
             }
           ]
         }
@@ -1238,27 +1302,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Bench Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press de banca"
             },
             {
               "exerciseNameEn": "Incline Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press inclinado"
             },
             {
               "exerciseNameEn": "Overhead Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press por encima de la cabeza"
             },
             {
               "exerciseNameEn": "Lateral Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevaciones laterales"
             },
             {
               "exerciseNameEn": "Tricep Pushdown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensión de tríceps en polea"
             },
             {
               "exerciseNameEn": "Skull Crushers",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensiones de tríceps acostado"
             }
           ]
         },
@@ -1269,27 +1339,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Pull-Ups",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Dominadas"
             },
             {
               "exerciseNameEn": "Barbell Row",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Remo con barra"
             },
             {
               "exerciseNameEn": "Lat Pulldown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Jalón en polea"
             },
             {
               "exerciseNameEn": "Seated Cable Row",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Remo en polea sentado"
             },
             {
               "exerciseNameEn": "Face Pulls",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Face pulls"
             },
             {
               "exerciseNameEn": "Barbell Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl con barra"
             }
           ]
         },
@@ -1300,27 +1376,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Squat",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Sentadilla"
             },
             {
               "exerciseNameEn": "Romanian Deadlift",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Peso muerto rumano"
             },
             {
               "exerciseNameEn": "Leg Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Prensa de piernas"
             },
             {
               "exerciseNameEn": "Leg Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl femoral"
             },
             {
               "exerciseNameEn": "Hip Thrust",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Elevación de cadera"
             },
             {
               "exerciseNameEn": "Calf Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevaciones de pantorrillas"
             }
           ]
         },
@@ -1331,27 +1413,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Bench Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press de banca"
             },
             {
               "exerciseNameEn": "Incline Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press inclinado"
             },
             {
               "exerciseNameEn": "Overhead Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press por encima de la cabeza"
             },
             {
               "exerciseNameEn": "Lateral Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevaciones laterales"
             },
             {
               "exerciseNameEn": "Tricep Pushdown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensión de tríceps en polea"
             },
             {
               "exerciseNameEn": "Skull Crushers",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensiones de tríceps acostado"
             }
           ]
         },
@@ -1362,27 +1450,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Pull-Ups",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Dominadas"
             },
             {
               "exerciseNameEn": "Barbell Row",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Remo con barra"
             },
             {
               "exerciseNameEn": "Lat Pulldown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Jalón en polea"
             },
             {
               "exerciseNameEn": "Seated Cable Row",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Remo en polea sentado"
             },
             {
               "exerciseNameEn": "Face Pulls",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Face pulls"
             },
             {
               "exerciseNameEn": "Barbell Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl con barra"
             }
           ]
         },
@@ -1393,27 +1487,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Squat",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Sentadilla"
             },
             {
               "exerciseNameEn": "Romanian Deadlift",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Peso muerto rumano"
             },
             {
               "exerciseNameEn": "Leg Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Prensa de piernas"
             },
             {
               "exerciseNameEn": "Leg Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl femoral"
             },
             {
               "exerciseNameEn": "Hip Thrust",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Elevación de cadera"
             },
             {
               "exerciseNameEn": "Calf Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevaciones de pantorrillas"
             }
           ]
         }
@@ -1433,27 +1533,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Bench Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press de banca"
             },
             {
               "exerciseNameEn": "Incline Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press inclinado"
             },
             {
               "exerciseNameEn": "Overhead Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press por encima de la cabeza"
             },
             {
               "exerciseNameEn": "Lateral Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevaciones laterales"
             },
             {
               "exerciseNameEn": "Tricep Pushdown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensión de tríceps en polea"
             },
             {
               "exerciseNameEn": "Skull Crushers",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensiones de tríceps acostado"
             }
           ]
         },
@@ -1464,27 +1570,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Pull-Ups",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Dominadas"
             },
             {
               "exerciseNameEn": "Barbell Row",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Remo con barra"
             },
             {
               "exerciseNameEn": "Lat Pulldown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Jalón en polea"
             },
             {
               "exerciseNameEn": "Seated Cable Row",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Remo en polea sentado"
             },
             {
               "exerciseNameEn": "Face Pulls",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Face pulls"
             },
             {
               "exerciseNameEn": "Barbell Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl con barra"
             }
           ]
         },
@@ -1495,27 +1607,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Squat",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Sentadilla"
             },
             {
               "exerciseNameEn": "Romanian Deadlift",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Peso muerto rumano"
             },
             {
               "exerciseNameEn": "Leg Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Prensa de piernas"
             },
             {
               "exerciseNameEn": "Leg Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl femoral"
             },
             {
               "exerciseNameEn": "Hip Thrust",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Elevación de cadera"
             },
             {
               "exerciseNameEn": "Calf Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevaciones de pantorrillas"
             }
           ]
         }
@@ -1535,27 +1653,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Bench Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press de banca"
             },
             {
               "exerciseNameEn": "Incline Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press inclinado"
             },
             {
               "exerciseNameEn": "Overhead Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press por encima de la cabeza"
             },
             {
               "exerciseNameEn": "Lateral Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevaciones laterales"
             },
             {
               "exerciseNameEn": "Tricep Pushdown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensión de tríceps en polea"
             },
             {
               "exerciseNameEn": "Skull Crushers",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Extensiones de tríceps acostado"
             }
           ]
         },
@@ -1566,27 +1690,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Pull-Ups",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Dominadas"
             },
             {
               "exerciseNameEn": "Barbell Row",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Remo con barra"
             },
             {
               "exerciseNameEn": "Lat Pulldown",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Jalón en polea"
             },
             {
               "exerciseNameEn": "Seated Cable Row",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Remo en polea sentado"
             },
             {
               "exerciseNameEn": "Face Pulls",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Face pulls"
             },
             {
               "exerciseNameEn": "Barbell Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl con barra"
             }
           ]
         },
@@ -1597,27 +1727,33 @@
           "exercises": [
             {
               "exerciseNameEn": "Squat",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Sentadilla"
             },
             {
               "exerciseNameEn": "Romanian Deadlift",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Peso muerto rumano"
             },
             {
               "exerciseNameEn": "Leg Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Prensa de piernas"
             },
             {
               "exerciseNameEn": "Leg Curl",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Curl femoral"
             },
             {
               "exerciseNameEn": "Hip Thrust",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Elevación de cadera"
             },
             {
               "exerciseNameEn": "Calf Raises",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Elevaciones de pantorrillas"
             }
           ]
         },
@@ -1628,23 +1764,28 @@
           "exercises": [
             {
               "exerciseNameEn": "Squat",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Sentadilla"
             },
             {
               "exerciseNameEn": "Bench Press",
-              "setsCount": 4
+              "setsCount": 4,
+              "exerciseNameEs": "Press de banca"
             },
             {
               "exerciseNameEn": "Barbell Row",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Remo con barra"
             },
             {
               "exerciseNameEn": "Overhead Press",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Press por encima de la cabeza"
             },
             {
               "exerciseNameEn": "Romanian Deadlift",
-              "setsCount": 3
+              "setsCount": 3,
+              "exerciseNameEs": "Peso muerto rumano"
             }
           ]
         }
