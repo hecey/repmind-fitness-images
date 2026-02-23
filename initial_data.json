@@ -697,17 +697,83 @@
         {
           "dayOfWeek": 1,
           "nameEn": "Full Body A",
-          "nameEs": "Cuerpo Completo A"
+          "nameEs": "Cuerpo Completo A",
+          "exercises": [
+            {
+              "exerciseNameEn": "Barbell Squat",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Barbell Row",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Overhead Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Romanian Deadlift",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 3,
           "nameEn": "Full Body B",
-          "nameEs": "Cuerpo Completo B"
+          "nameEs": "Cuerpo Completo B",
+          "exercises": [
+            {
+              "exerciseNameEn": "Deadlift",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Incline Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Pull-Ups",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Leg Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Lateral Raises",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 5,
           "nameEn": "Full Body C",
-          "nameEs": "Cuerpo Completo C"
+          "nameEs": "Cuerpo Completo C",
+          "exercises": [
+            {
+              "exerciseNameEn": "Front Squat",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Dumbbell Bench Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Seated Cable Row",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Dumbbell Shoulder Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Leg Curl",
+              "setsCount": 3
+            }
+          ]
         }
       ]
     },
@@ -721,22 +787,118 @@
         {
           "dayOfWeek": 1,
           "nameEn": "Upper A",
-          "nameEs": "Superior A"
+          "nameEs": "Superior A",
+          "exercises": [
+            {
+              "exerciseNameEn": "Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Barbell Row",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Overhead Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Pull-Ups",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Tricep Pushdown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Barbell Curl",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 2,
           "nameEn": "Lower A",
-          "nameEs": "Inferior A"
+          "nameEs": "Inferior A",
+          "exercises": [
+            {
+              "exerciseNameEn": "Barbell Squat",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Romanian Deadlift",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Leg Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Leg Curl",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Calf Raises",
+              "setsCount": 4
+            }
+          ]
         },
         {
           "dayOfWeek": 4,
           "nameEn": "Upper B",
-          "nameEs": "Superior B"
+          "nameEs": "Superior B",
+          "exercises": [
+            {
+              "exerciseNameEn": "Incline Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Seated Cable Row",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Dumbbell Shoulder Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Lat Pulldown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Skull Crushers",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Dumbbell Curl",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 5,
           "nameEn": "Lower B",
-          "nameEs": "Inferior B"
+          "nameEs": "Inferior B",
+          "exercises": [
+            {
+              "exerciseNameEn": "Deadlift",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Bulgarian Split Squat",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Leg Extension",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Hip Thrust",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Seated Calf Raises",
+              "setsCount": 4
+            }
+          ]
         }
       ]
     },
@@ -750,27 +912,145 @@
         {
           "dayOfWeek": 1,
           "nameEn": "Upper A",
-          "nameEs": "Superior A"
+          "nameEs": "Superior A",
+          "exercises": [
+            {
+              "exerciseNameEn": "Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Barbell Row",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Overhead Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Pull-Ups",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Tricep Pushdown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Barbell Curl",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 2,
           "nameEn": "Lower A",
-          "nameEs": "Inferior A"
+          "nameEs": "Inferior A",
+          "exercises": [
+            {
+              "exerciseNameEn": "Barbell Squat",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Romanian Deadlift",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Leg Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Leg Curl",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Calf Raises",
+              "setsCount": 4
+            }
+          ]
         },
         {
           "dayOfWeek": 3,
           "nameEn": "Upper B",
-          "nameEs": "Superior B"
+          "nameEs": "Superior B",
+          "exercises": [
+            {
+              "exerciseNameEn": "Incline Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Seated Cable Row",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Dumbbell Shoulder Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Lat Pulldown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Skull Crushers",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Dumbbell Curl",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 4,
           "nameEn": "Lower B",
-          "nameEs": "Inferior B"
+          "nameEs": "Inferior B",
+          "exercises": [
+            {
+              "exerciseNameEn": "Deadlift",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Bulgarian Split Squat",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Leg Extension",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Hip Thrust",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Seated Calf Raises",
+              "setsCount": 4
+            }
+          ]
         },
         {
           "dayOfWeek": 5,
           "nameEn": "Full Body",
-          "nameEs": "Cuerpo Completo"
+          "nameEs": "Cuerpo Completo",
+          "exercises": [
+            {
+              "exerciseNameEn": "Barbell Squat",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Barbell Row",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Overhead Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Romanian Deadlift",
+              "setsCount": 3
+            }
+          ]
         }
       ]
     },
@@ -784,32 +1064,188 @@
         {
           "dayOfWeek": 1,
           "nameEn": "Push A",
-          "nameEs": "Empuje A"
+          "nameEs": "Empuje A",
+          "exercises": [
+            {
+              "exerciseNameEn": "Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Incline Bench Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Overhead Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Lateral Raises",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Tricep Pushdown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Skull Crushers",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 2,
           "nameEn": "Pull A",
-          "nameEs": "Jalón A"
+          "nameEs": "Jalón A",
+          "exercises": [
+            {
+              "exerciseNameEn": "Pull-Ups",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Barbell Row",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Lat Pulldown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Seated Cable Row",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Face Pulls",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Barbell Curl",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 3,
           "nameEn": "Legs A",
-          "nameEs": "Piernas A"
+          "nameEs": "Piernas A",
+          "exercises": [
+            {
+              "exerciseNameEn": "Barbell Squat",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Romanian Deadlift",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Leg Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Leg Curl",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Hip Thrust",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Calf Raises",
+              "setsCount": 4
+            }
+          ]
         },
         {
           "dayOfWeek": 4,
           "nameEn": "Push B",
-          "nameEs": "Empuje B"
+          "nameEs": "Empuje B",
+          "exercises": [
+            {
+              "exerciseNameEn": "Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Incline Bench Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Overhead Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Lateral Raises",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Tricep Pushdown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Skull Crushers",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 5,
           "nameEn": "Pull B",
-          "nameEs": "Jalón B"
+          "nameEs": "Jalón B",
+          "exercises": [
+            {
+              "exerciseNameEn": "Pull-Ups",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Barbell Row",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Lat Pulldown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Seated Cable Row",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Face Pulls",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Barbell Curl",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 6,
           "nameEn": "Legs B",
-          "nameEs": "Piernas B"
+          "nameEs": "Piernas B",
+          "exercises": [
+            {
+              "exerciseNameEn": "Barbell Squat",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Romanian Deadlift",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Leg Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Leg Curl",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Hip Thrust",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Calf Raises",
+              "setsCount": 4
+            }
+          ]
         }
       ]
     },
@@ -823,17 +1259,95 @@
         {
           "dayOfWeek": 1,
           "nameEn": "Push",
-          "nameEs": "Empuje"
+          "nameEs": "Empuje",
+          "exercises": [
+            {
+              "exerciseNameEn": "Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Incline Bench Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Overhead Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Lateral Raises",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Tricep Pushdown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Skull Crushers",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 3,
           "nameEn": "Pull",
-          "nameEs": "Jalón"
+          "nameEs": "Jalón",
+          "exercises": [
+            {
+              "exerciseNameEn": "Pull-Ups",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Barbell Row",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Lat Pulldown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Seated Cable Row",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Face Pulls",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Barbell Curl",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 5,
           "nameEn": "Legs",
-          "nameEs": "Piernas"
+          "nameEs": "Piernas",
+          "exercises": [
+            {
+              "exerciseNameEn": "Barbell Squat",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Romanian Deadlift",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Leg Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Leg Curl",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Hip Thrust",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Calf Raises",
+              "setsCount": 4
+            }
+          ]
         }
       ]
     },
@@ -847,22 +1361,122 @@
         {
           "dayOfWeek": 1,
           "nameEn": "Push",
-          "nameEs": "Empuje"
+          "nameEs": "Empuje",
+          "exercises": [
+            {
+              "exerciseNameEn": "Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Incline Bench Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Overhead Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Lateral Raises",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Tricep Pushdown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Skull Crushers",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 2,
           "nameEn": "Pull",
-          "nameEs": "Jalón"
+          "nameEs": "Jalón",
+          "exercises": [
+            {
+              "exerciseNameEn": "Pull-Ups",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Barbell Row",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Lat Pulldown",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Seated Cable Row",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Face Pulls",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Barbell Curl",
+              "setsCount": 3
+            }
+          ]
         },
         {
           "dayOfWeek": 4,
           "nameEn": "Legs",
-          "nameEs": "Piernas"
+          "nameEs": "Piernas",
+          "exercises": [
+            {
+              "exerciseNameEn": "Barbell Squat",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Romanian Deadlift",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Leg Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Leg Curl",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Hip Thrust",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Calf Raises",
+              "setsCount": 4
+            }
+          ]
         },
         {
           "dayOfWeek": 5,
           "nameEn": "Full Body",
-          "nameEs": "Cuerpo Completo"
+          "nameEs": "Cuerpo Completo",
+          "exercises": [
+            {
+              "exerciseNameEn": "Barbell Squat",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Bench Press",
+              "setsCount": 4
+            },
+            {
+              "exerciseNameEn": "Barbell Row",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Overhead Press",
+              "setsCount": 3
+            },
+            {
+              "exerciseNameEn": "Romanian Deadlift",
+              "setsCount": 3
+            }
+          ]
         }
       ]
     }
