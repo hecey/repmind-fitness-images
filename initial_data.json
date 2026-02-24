@@ -173,7 +173,15 @@
       "param1Label": "Kg",
       "param2Label": "Reps",
       "param3Label": "RIR",
-      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/seated_cable_row.png"
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/seated_cable_row.png",
+      "usesAttachment": true,
+      "defaultAttachments": [
+        "V-Bar",
+        "D-Handle",
+        "Wide Grip Bar",
+        "Neutral Grip Bar",
+        "Single Handle"
+      ]
     },
     {
       "nameEn": "Dumbbell Shoulder Press",
@@ -203,7 +211,15 @@
       "param1Label": "Kg",
       "param2Label": "Reps",
       "param3Label": "RIR",
-      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/tricep_pushdown.png"
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/tricep_pushdown.png",
+      "usesAttachment": true,
+      "defaultAttachments": [
+        "Rope",
+        "Straight Bar",
+        "V-Bar",
+        "D-Handle",
+        "Tricep Bar"
+      ]
     },
     {
       "nameEn": "Barbell Curl",
@@ -283,7 +299,12 @@
       "param1Label": "Kg",
       "param2Label": "Reps",
       "param3Label": "RIR",
-      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/face_pulls.png"
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/face_pulls.png",
+      "usesAttachment": true,
+      "defaultAttachments": [
+        "Rope",
+        "D-Handle"
+      ]
     },
     {
       "nameEn": "Machine Adductors",
@@ -413,7 +434,12 @@
       "param1Label": "Kg",
       "param2Label": "Reps",
       "param3Label": "RIR",
-      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/glute_kickbacks_on_cable_machine.png"
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/glute_kickbacks_on_cable_machine.png",
+      "usesAttachment": true,
+      "defaultAttachments": [
+        "Ankle Strap",
+        "D-Handle"
+      ]
     },
     {
       "nameEn": "Machine Hip Abduction",
@@ -473,7 +499,15 @@
       "param1Label": "Kg",
       "param2Label": "Reps",
       "param3Label": "RIR",
-      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/lat_pulldown.png"
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/lat_pulldown.png",
+      "usesAttachment": true,
+      "defaultAttachments": [
+        "Lat Bar",
+        "Wide Grip Bar",
+        "Close Grip Bar",
+        "Neutral Grip Bar",
+        "V-Bar"
+      ]
     },
     {
       "nameEn": "Seated Machine Shrugs",
@@ -513,7 +547,13 @@
       "param1Label": "Kg",
       "param2Label": "Reps",
       "param3Label": "RIR",
-      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/front_lat_pulldown.png"
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/front_lat_pulldown.png",
+      "usesAttachment": true,
+      "defaultAttachments": [
+        "Lat Bar",
+        "Wide Grip Bar",
+        "Close Grip Bar"
+      ]
     },
     {
       "nameEn": "Incline Press",
@@ -563,7 +603,13 @@
       "param1Label": "Kg",
       "param2Label": "Reps",
       "param3Label": "RIR",
-      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/cable_chest_crossover.png"
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/cable_chest_crossover.png",
+      "usesAttachment": true,
+      "defaultAttachments": [
+        "D-Handle",
+        "Single Handle",
+        "Rope"
+      ]
     },
     {
       "nameEn": "Rear Delt Machine",
@@ -633,7 +679,14 @@
       "param1Label": "Kg",
       "param2Label": "Reps",
       "param3Label": "RIR",
-      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/tricep_extension.png"
+      "image": "https://raw.githubusercontent.com/hecey/repmind-fitness-images/main/tricep_extension.png",
+      "usesAttachment": true,
+      "defaultAttachments": [
+        "Rope",
+        "Straight Bar",
+        "EZ Bar",
+        "V-Bar"
+      ]
     },
     {
       "nameEn": "Bicep Curl",
@@ -1790,6 +1843,72 @@
           ]
         }
       ]
+    }
+  ],
+  "attachments": [
+    {
+      "nameEn": "Rope",
+      "nameEs": "Cuerda"
+    },
+    {
+      "nameEn": "Straight Bar",
+      "nameEs": "Barra recta"
+    },
+    {
+      "nameEn": "EZ Bar",
+      "nameEs": "Barra EZ"
+    },
+    {
+      "nameEn": "V-Bar",
+      "nameEs": "Barra en V"
+    },
+    {
+      "nameEn": "D-Handle",
+      "nameEs": "Agarre en D"
+    },
+    {
+      "nameEn": "Neutral Grip Bar",
+      "nameEs": "Barra agarre neutro"
+    },
+    {
+      "nameEn": "Wide Grip Bar",
+      "nameEs": "Barra agarre ancho"
+    },
+    {
+      "nameEn": "Close Grip Bar",
+      "nameEs": "Barra agarre cerrado"
+    },
+    {
+      "nameEn": "Ankle Strap",
+      "nameEs": "Tobillera"
+    },
+    {
+      "nameEn": "Resistance Band",
+      "nameEs": "Banda de resistencia"
+    },
+    {
+      "nameEn": "Cable Stirrup",
+      "nameEs": "Estribo de cable"
+    },
+    {
+      "nameEn": "Lat Bar",
+      "nameEs": "Barra de jalón"
+    },
+    {
+      "nameEn": "Tricep Bar",
+      "nameEs": "Barra de tríceps"
+    },
+    {
+      "nameEn": "Single Handle",
+      "nameEs": "Agarre individual"
+    },
+    {
+      "nameEn": "Pull-Up Bar",
+      "nameEs": "Barra de dominadas"
+    },
+    {
+      "nameEn": "Short Bar",
+      "nameEs": "Barra corta"
     }
   ]
 }
